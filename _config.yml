@@ -2,21 +2,21 @@
 ## to customize your blog
 
 title: Stat 386 Blog
-description: "This description of the blog will appear on the 'About' page." 
-author: Your name
-author_description: "This description of who you are will appear on the 'About' page." 
+description: "This is my blog for STAT 386" 
+author: Dan Sumsion
+author_description: "The author is taking STAT 386 fall 2024" 
 
-url: https://esnt.github.io ## change this to https://yourusername.github.io
-baseurl: /another-stat386-theme ## change this to the name of your blog repository
+url: https://dsumsio.github.io ## change this to https://yourusername.github.io
+baseurl: /stat386_blog ## change this to the name of your blog repository
 header_image: /assets/img/headerimg.jpg ## change your header image if you want
 
 ## Add your social media user names.  Github is required, the rest are optional
 social:
-    github:  ## required
+    github: dsumsio ## required
     twitter: 
     facebook: 
     email: 
-    linkedin: 
+    linkedin: Daniel Sumsion
     youtube: 
     tumblr: 
     website: 
