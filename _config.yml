@@ -13,13 +13,8 @@ header_image: /assets/img/headerimg.jpg ## change your header image if you want
 ## Add your social media user names.  Github is required, the rest are optional
 social:
     github: dsumsio ## required
-    twitter: 
-    facebook: 
-    email: 
+    email: dsumsio@byu.edu
     linkedin: Daniel Sumsion
-    youtube: 
-    tumblr: 
-    website: 
 
 
 
