@@ -64,4 +64,4 @@ Along your data science or statistical carrier, you may have run into a nested c
 
 Whatever size your data science nest is, I hope you fit in a nested cross-fold validation.
 
-<img src ="{{site.url}}/{{site.baseurl}}/assets/img/nest1.jpg" alt:"" style="width:500px;"/>
+![birds]({{site.url}}/{{site.baseurl}}/assets/img/nest1.jpg)
