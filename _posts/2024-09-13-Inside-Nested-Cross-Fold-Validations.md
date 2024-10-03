@@ -60,8 +60,10 @@ After this point in the article, how well do you understand the concept and the 
 
 ## Conclusion
 
-Along your data science or statistical carrier, you may have run into a nested cross-fold validation and wondered its purpose or have yet to have the opportunity to hear of their existence. Wherever you are on your data journey, I hope you see just how effective a nested cross-fold validation can be when used in the right context. They near perfect in choosing an accurate model, no data leakage occurs, and one can have an accurate performance estimation as they finish.
+Along your data science or statistical carrier, you may have run into a nested cross-fold validation and wondered its purpose or have yet to have the opportunity to hear of their existence. Wherever you are on your data journey, I hope you see just how effective a nested cross-fold validation can be when used in the right context. It is one of the best in choosing an accurate model, with no data leakage, and one can have an accurate performance estimation as they finish. But don't take my word for it, try it yourself on the next time you are modeling!
 
-Whatever size your data science nest is, I hope you fit in a nested cross-fold validation.
+Also, check out this great video on [nested cross-fold validations](https://www.youtube.com/watch?v=az60jS7MQhU&ab_channel=CynthiaRudin) from Dr Cynthia Rudin, PhD at the University of Duke for more info!
+
+Whatever size your nest of knowledge of data science is, I hope you try to fit in a nested cross-fold validation!
 
 ![birds]({{site.url}}/{{site.baseurl}}/assets/img/nest1.jpg)
