@@ -23,7 +23,7 @@ K-fold cross validations consist of several steps:
 
 Here is this shown visually:
 
-![cross-validation](/assets/img/cross-validation.png)
+![cross-validation]({{site.url}}/{{site.baseurl}}/assets/img/cross-validation.png)
 
 A nested cross fold validation combines 2 nested cross validations to achieve optimal performance of both coefficients and hyperparameters. It works the same as k-fold cross validations with the following changes:
 
