@@ -21,7 +21,7 @@ K-fold cross-validations consist of several steps:
 4. Repeat steps 2-3 iterating through each group as the validation set
 5. Train final model across all training data with parameter(s) that performed the best
 
-Here is a visual example:
+Here is a visual example where the red boxes represent the testing/validation set and the white boxes represent the training sets:
 
 ![cross-validation]({{site.url}}/{{site.baseurl}}/assets/img/cross-validation.png)
 
