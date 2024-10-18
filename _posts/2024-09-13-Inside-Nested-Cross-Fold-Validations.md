@@ -17,7 +17,7 @@ A nested cross-fold validation is simply 2 cross-fold validations compounded to 
 K-fold cross-validations consist of several steps:
 1. Divide your training data into K groups (usually around 5 or 10 but can be much larger)
 2. Use all groups but one to train your model
-3. Test or validate you model on the group that was left out of training
+3. Test or validate your model on the group that was left out of training
 4. Repeat steps 2-3 iterating through each group as the validation set
 5. Train final model across all training data with parameter(s) that performed the best
 
@@ -60,7 +60,7 @@ After this point in the article, how well do you understand the concept and the 
 
 ## Conclusion
 
-Along your data science or statistical carrier, you may have run into a nested cross-fold validation and wondered its purpose or have yet to have the opportunity to hear of their existence. Wherever you are on your data journey, I hope you see just how effective a nested cross-fold validation can be when used in the right context. It is one of the best in choosing an accurate model, with no data leakage, and one can have an accurate performance estimation as they finish. But don't take my word for it, try it yourself on the next time you are modeling!
+Along your data science or statistical career, you may have run into a nested cross-fold validation and wondered its purpose or have yet to have the opportunity to hear of their existence. Wherever you are on your data journey, I hope you see just how effective a nested cross-fold validation can be when used in the right context. It is one of the best in choosing an accurate model, with no data leakage, and one can have an accurate performance estimation as they finish. But don't take my word for it, try it yourself on the next time you are modeling!
 
 Also, check out this great video on [nested cross-fold validations](https://www.youtube.com/watch?v=az60jS7MQhU&ab_channel=CynthiaRudin) from Dr Cynthia Rudin, PhD at the University of Duke for more info!
 
