@@ -2,7 +2,7 @@
 layout: post
 title:  "NBA Patterns: Data Exploration From a New Lense"
 description: Has the NBA been getting better at Basketball or just getting our money?
-image: /assets/img/headernest.jpg
+image: /assets/img/post2header.png
 ---
 
 ## Introduction
