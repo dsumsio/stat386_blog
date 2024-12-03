@@ -67,7 +67,7 @@ Hopefully this gets you started with a few of the features available! Feel free 
 
 ## Conclusion:
 
-The Book of Mormon is more than just a good religious book and there is much to learn from it. I hope the Streamlit app can help you as you study the Book of Mormon and inspires you to create a Streamlit app of your own! 
+The Book of Mormon is more than just a good religious book and there is much to learn from it. I hope the Streamlit app can help you as you study the Book of Mormon and inspires you to create a Streamlit app of your own! What do you think should be added to app? Leave a comment on the suggestion tab of the app!
 
 ## Github Repo:
 
