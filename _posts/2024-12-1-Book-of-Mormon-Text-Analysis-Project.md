@@ -2,7 +2,7 @@
 layout: post
 title:  "Book of Mormon Text Analysis"
 description: A dive into speech comparison in the Book of Mormon
-image: /assets/img/post2header.png
+image: /assets/img/post3headerimage.png
 ---
 
 ## Introduction
