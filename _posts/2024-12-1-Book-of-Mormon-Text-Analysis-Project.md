@@ -72,3 +72,7 @@ The Book of Mormon is more than just a good religious book and there is much to 
 ## Github Repo:
 
 Here is a link to my [GitHub repo](https://github.com/dsumsio/Book-of-Mormon-Project) where you can copy and create new features yourself. 
+
+## Streamlit link:
+
+If you didn't see the link to the Streamlit app above you can also use [this link](https://bom-project.streamlit.app/).
