@@ -23,13 +23,13 @@ When comparing word usage throughout the Book of Mormon, it is shocking to see t
 
 As you can see, the word ‘Christ’ is not found in 1st Nephi as the bar representing occurrences of Christ and normalized by length is at 0. If we look at a table holding the occurrences of Christ in 2nd Nephi (the book that immediately follows 1st Nephi) we can look at the situation:
 
-TABLE OF OCCURACNES OF CHRIST IN 2ND NEPHI
-| Book | Chapter:Verse | Text |
-|:----------:|:----------:|----------|
-| 2 Nephi | 10:3   | must need be expedient that christ for in the last night |
-| 2 Nephi | 10:7   | in me that i am christ then have i covenanted with |
-| 2 Nephi | 11:4   | truth of the coming of christ for for this end hath |
-| 2 Nephi | 11:6   | unto my people that save christ should come all men must   |
+
+| Book    | Chapter:Verse | Text                                                     |
+|:-------:|:-------------:|----------------------------------------------------------|
+| 2 Nephi | 10:3          | must need be expedient that christ for in the last night |
+| 2 Nephi | 10:7          | in me that i am christ then have i covenanted with       |
+| 2 Nephi | 11:4          | truth of the coming of christ for for this end hath      |
+| 2 Nephi | 11:6          | unto my people that save christ should come all men must |
 
 
 The first time “Christ” is used in the Book of Mormon is in 2nd Nephi 10:3 where Jacob continues his sermon to the people of Nephi and says:
