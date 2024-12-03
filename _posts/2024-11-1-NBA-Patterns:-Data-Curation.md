@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NBA Patterns: Data Exploration From a New Lense"
+title:  "NBA Patterns: Data Exploration From a New Lens"
 description: Has the NBA been getting better at Basketball or just getting our money?
 image: /assets/img/post2header.png
 ---
@@ -20,7 +20,7 @@ By examining these trends, we can gain new insights into whether the NBA has cha
 
 ## Data 
 
-The data for this NBA analysis was obtained from apilayer.com at [the rundown api](https://apilayer.com/marketplace/therundown-api). Because this api is free and open to the public access as you register an api key, it is ethical to use and implements good practice of not extracting information that is private or restricted. It is important to follow ethical scraping and data curation procedures to ensure the legality of such data exploration but as well to be an honest web user.
+The data for this NBA analysis was obtained from apilayer.com at [the rundown api](https://apilayer.com/marketplace/therundown-api). Because this api is free and open to the public access as you register an api key, it is ethical to use and implements good practice of not extracting information that is private or restricted. It is important to follow ethical scraping and data curation procedures to ensure the legality of such data exploration but as well to be an honest web user. This type of scraping does not require a sleep as you scrape because of the format of the API. However, in other cases it is a good idea to have your code sleep in order to overwhelm websites as you scrape.
 
 As in any other data analysis, one of the first steps after identifying a motivating question is to obtain reasonable data to further explore the topic.  The rundown api contains data from several hundred sports and thousands of games. I used this api to obtain the data set for this analysis. 
 
